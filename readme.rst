@@ -6,12 +6,11 @@ Aplikasi SmartSchool ini dibangun dengan Framework Codeigniter 3.x
 dan menggunakan database Mysql, php 5.6 dan menggunakan bahasa pemrograman lainnya seperti php,html,ajax
 
 *******************
-Release Information
+Information Update
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+informasi Update Terbaru Kunjungi halaman `Website
+<https://exampremium.co.id>`_ .
 
 **************************
 Changelog and New Features
@@ -26,16 +25,17 @@ Changelog and New Features
 Server Requirements
 *******************
 
-PHP version 5.6 Sangat Direkomendasikan
-Ioncube VC 11_X86-64
-Mysql 
+-  PHP version 5.6 Sangat Direkomendasikan
+-  Ioncube VC 11_X86-64
+-  Mysql 
 
 ************
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+-  Copy Folder ini ke htdocs / hosting
+-  Buat Database
+-  Ubah file database.php yang berada di folder \application\config\database.php  Sesuaikan konfigurasi dengan database yang anda buat
 
 *******
 License
