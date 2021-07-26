@@ -17,18 +17,17 @@ latest stable release please visit the `CodeIgniter Downloads
 Changelog and New Features
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+--Fitur Buku Induk
+--Fitur Absensi Guru Dan Siswa
+--Fitur Pencatatan Pelanggaran Siswa (PeNcatatan BK)
 
 *******************
 Server Requirements
 *******************
 
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+PHP version 5.6 Sangat Direkomendasikan
+Ioncube VC 11_X86-64
+Mysql 
 
 ************
 Installation
