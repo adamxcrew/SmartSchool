@@ -1,9 +1,9 @@
 ###################
 Aplikasi SmartSchool
 ###################
-![image.png]( {https://user-images.githubusercontent.com/28720491/127005728-c0211ba0-0648-4fd6-94b7-2bd49aafe2e0.png )
 
-
+ 
+ 
 Aplikasi SmartSchool ini dibangun dengan Framework Codeigniter 3.x
 dan menggunakan database Mysql, php 5.6 dan menggunakan bahasa pemrograman lainnya seperti php,html,ajax
 
