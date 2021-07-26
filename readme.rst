@@ -8,7 +8,7 @@ Aplikasi SmartSchool ini dibangun dengan Framework Codeigniter 3.x
 dan menggunakan database Mysql, php 5.6 dan menggunakan bahasa pemrograman lainnya seperti php,html,ajax
 
 *******************
-Information Dan Update
+Informasi Dan Update
 *******************
 
 
@@ -43,7 +43,7 @@ Installation
 -  Ubah file database.php yang berada di folder \application\config\database.php  Sesuaikan konfigurasi dengan database yang anda buat
 
 *******
-License
+Lisensi
 *******
 
 Please see the `license
