@@ -17,9 +17,9 @@ latest stable release please visit the `CodeIgniter Downloads
 Changelog and New Features
 **************************
 
--  `Fitur Buku Induk`_
--  `Fitur Absensi Guru Dan Siswa`_
--  `Fitur Pencatatan Pelanggaran Siswa (PeNcatatan BK)`_
+-  Fitur Buku Induk
+-  Fitur Absensi Guru Dan Siswa
+-  Fitur Pencatatan Pelanggaran Siswa (PeNcatatan BK)
 
 
 *******************
