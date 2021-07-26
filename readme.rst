@@ -1,6 +1,8 @@
 ###################
 Aplikasi SmartSchool
 ###################
+![image.png]( {https://user-images.githubusercontent.com/28720491/127005728-c0211ba0-0648-4fd6-94b7-2bd49aafe2e0.png )
+
 
 Aplikasi SmartSchool ini dibangun dengan Framework Codeigniter 3.x
 dan menggunakan database Mysql, php 5.6 dan menggunakan bahasa pemrograman lainnya seperti php,html,ajax
@@ -8,7 +10,9 @@ dan menggunakan database Mysql, php 5.6 dan menggunakan bahasa pemrograman lainn
 *******************
 Information Dan Update
 *******************
-![banner1](https://user-images.githubusercontent.com/28720491/127005506-179d4462-092a-4c00-ac29-6fd28ae133cd.png)
+
+
+
 
 informasi Update Terbaru Kunjungi halaman `Website
 <https://exampremium.co.id>`_ .
