@@ -1,138 +1,216 @@
-<?php //0050a
-// 10.2 56
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-?>
-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grA96t8JvTztTwXh
-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
-WOXpOQKXCsAtHAoQS/Ib0GWBa9k=\N0oIleODKWbQWKc+ntGObH6EAmUBQZVEXrRHjwHtwnYpEu7
-MTYxODQ3\YTMxYjc3ZjFfMmJkOWVmZjc=
+class Dashboard extends CI_Controller {
+
+    public function __construct()
+    {
+        parent::__construct();
+        //load model BK
+        $this->load->model('bk');
+       
+
+        //cek session dan level user
+        if($this->bk->is_role() != "bk"){
+            redirect("loginbk");
+        }
+    }
+
+    public function index()
+    {
+        
+        
+        $this->load->model('Bk');
+        $data = array(
+           
+            'data_profil' => $this->Bk->get_profil()->result()
+        );
+        $data['log_login'] = $this->db->query("SELECT * FROM log_login ORDER BY id DESC LIMIT 13");
+        
+        $this->load->view('_partials/header');
+        $this->load->view('_partials/menubk');
+        $this->load->view('bk/dashboard', $data);       
+        $this->load->view('_partials/footer');
+    }
+    
+
+
+
+
+    public function datapelanggaran()
+    {
+        $this->load->model('Bk');
+
+        $data = array(
+            'kasus'  => $this->Bk->get_pelanggaran()->result(),
+            'datasiswa'  => $this->Bk->getdatasiswa()
+        );
+        $this->load->view('_partials/header');
+        $this->load->view('_partials/menubk');
+        $this->load->view('bk/datapelanggaran', $data);
+        $this->load->view('_partials/footer');
+      
+    }
+
+    public function simpanpelanggaran()
+    {
+       $this->load->model('bk');
+       {
+        $data['siswa_id']  = $this->input->post('siswa_id');
+        $data['nama_kasus']   = $this->input->post('nama_kasus');
+        $data['poin']         = $this->input->post('poin');
+    
+		$this->load->view('bk/dashboard',$data);
+	  }
+        $this->bk->simpan_pelanggaran($data);
+        redirect('bk/dashboard/datapelanggaran');
+    
+    } 
+
+    public function hapuspelanggaran($id_kasus)
+    {
+      $this->load->model('bk');
+    
+       $id['id_kasus'] = $this->uri->segment(4);
+       $this->bk->hapus_pelanggaran($id);
+       redirect('bk/dashboard/datapelanggaran');
+    }
+
+
+
+
+
+
+    public function kehadiransiswa()
+    {
+          $this->load->model('m_master');
+
+          $data = array(
+              'datakehadiransiswa' => $this->m_master->get_datakehadiransiswa()->result()
+          );
+          
+          $this->load->view('_partials/header');
+          $this->load->view('_partials/menubk');
+          $this->load->view('bk/datakehadiransiswa', $data);
+          $this->load->view('_partials/footer');
+    }
+
+    
+    public function logout()
+    {
+        $this->session->sess_destroy();
+        redirect('loginbk');
+    }
+    
+  
+
+
+    public function exportpresensisiswa(){
+
+
+
+        $this->load->model('Exportabsensiswa');
+        // Load plugin PHPExcel nya
+        include APPPATH.'third_party/PHPExcel/PHPExcel.php';
+        
+        // Panggil class PHPExcel nya
+        $excel = new PHPExcel();
+        // Settingan awal fil excel
+        $excel->getProperties()->setCreator('Hainur Cahya Utama')
+                     ->setLastModifiedBy('Hainur Cahya Utama')
+                     ->setTitle("Data Siswa")
+                     ->setSubject("Siswa")
+                     ->setDescription("Laporan Presensi Siswa")
+                     ->setKeywords("Data Siswa");
+        // Buat sebuah variabel untuk menampung pengaturan style dari header tabel
+        $style_col = array(
+            'font' => array('bold' => true), // Set font nya jadi bold
+            'alignment'  => array(
+            'horizontal' => PHPExcel_Style_Alignment::HORIZONTAL_CENTER, // Set text jadi ditengah secara horizontal (center)
+            'vertical'   => PHPExcel_Style_Alignment::VERTICAL_CENTER // Set text jadi di tengah secara vertical (middle)
+          ),
+          'borders'  => array(
+            'top'    => array('style'  => PHPExcel_Style_Border::BORDER_THIN), // Set border top dengan garis tipis
+            'right'  => array('style'  => PHPExcel_Style_Border::BORDER_THIN),  // Set border right dengan garis tipis
+            'bottom' => array('style'  => PHPExcel_Style_Border::BORDER_THIN), // Set border bottom dengan garis tipis
+            'left'   => array('style'  => PHPExcel_Style_Border::BORDER_THIN) // Set border left dengan garis tipis
+          )
+        );
+
+        // Buat sebuah variabel untuk menampung pengaturan style dari isi tabel
+        $style_row      = array(
+            'alignment' => array(
+            'vertical'  => PHPExcel_Style_Alignment::VERTICAL_CENTER // Set text jadi di tengah secara vertical (middle)
+          ),
+          'borders' => array(
+            'top'    => array('style'  => PHPExcel_Style_Border::BORDER_THIN), // Set border top dengan garis tipis
+            'right'  => array('style'  => PHPExcel_Style_Border::BORDER_THIN),  // Set border right dengan garis tipis
+            'bottom' => array('style'  => PHPExcel_Style_Border::BORDER_THIN), // Set border bottom dengan garis tipis
+            'left'   => array('style'  => PHPExcel_Style_Border::BORDER_THIN) // Set border left dengan garis tipis
+          )
+        );
+    
+        // Buat header tabel nya pada baris ke 3
+        $excel->setActiveSheetIndex(0)->setCellValue('A1', "Nama Siswa"); // Set kolom A3 dengan tulisan "NO"
+        $excel->setActiveSheetIndex(0)->setCellValue('B1', "Tanggal Presensi");
+        $excel->setActiveSheetIndex(0)->setCellValue('C1', "Masuk");
+        $excel->setActiveSheetIndex(0)->setCellValue('D1', "Pulang");
+
+
+
+        // Apply style header yang telah kita buat tadi ke masing-masing kolom header
+        $excel->getActiveSheet()->getStyle('A1')->applyFromArray($style_col);
+        $excel->getActiveSheet()->getStyle('B1')->applyFromArray($style_col);
+        $excel->getActiveSheet()->getStyle('C1')->applyFromArray($style_col);
+        $excel->getActiveSheet()->getStyle('D1')->applyFromArray($style_col);
+
+
+        // Panggil function view yang ada di SiswaModel untuk menampilkan semua data siswanya
+        $siswa = $this->Exportabsensiswa->view();
+        $numrow = 2; // Set baris pertama untuk isi tabel adalah baris ke 4
+        foreach($siswa as $data){ // Lakukan looping pada variabel siswa
+          $excel->setActiveSheetIndex(0)->setCellValue('A'.$numrow, $data->nama_siswa);
+          $excel->setActiveSheetIndex(0)->setCellValue('B'.$numrow, $data->tanggalpresensi);
+          $excel->setActiveSheetIndex(0)->setCellValue('C'.$numrow, $data->stempel_presensi);
+          $excel->setActiveSheetIndex(0)->setCellValue('D'.$numrow, $data->out_presensi);
+
+          
+
+          
+          // Apply style row yang telah kita buat tadi ke masing-masing baris (isi tabel)
+          $excel->getActiveSheet()->getStyle('A'.$numrow)->applyFromArray($style_row);
+          $excel->getActiveSheet()->getStyle('B'.$numrow)->applyFromArray($style_row);
+          $excel->getActiveSheet()->getStyle('C'.$numrow)->applyFromArray($style_row);
+          $excel->getActiveSheet()->getStyle('D'.$numrow)->applyFromArray($style_row);
+
+
+
+          
+          $numrow++; // Tambah 1 setiap kali looping
+        }
+        // Set width kolom
+        $excel->getActiveSheet()->getColumnDimension('A')->setWidth(45); // Set width kolom A
+        $excel->getActiveSheet()->getColumnDimension('B')->setWidth(20); // Set width kolom B
+        $excel->getActiveSheet()->getColumnDimension('C')->setWidth(20); // Set width kolom B
+        $excel->getActiveSheet()->getColumnDimension('D')->setWidth(20); // Set width kolom B
+  
+
+        
+        // Set height semua kolom menjadi auto (mengikuti height isi dari kolommnya, jadi otomatis)
+        $excel->getActiveSheet()->getDefaultRowDimension()->setRowHeight(-1);
+        // Set orientasi kertas jadi LANDSCAPE
+        $excel->getActiveSheet()->getPageSetup()->setOrientation(PHPExcel_Worksheet_PageSetup::ORIENTATION_LANDSCAPE);
+        // Set judul file excel nya
+        $excel->getActiveSheet(0)->setTitle("Rekap Presensi");
+        $excel->setActiveSheetIndex(0);
+        // Proses file excel
+        header('Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
+        header('Content-Disposition: attachment; filename="Rekap Presensi Siswa.xlsx"'); // Set nama file excel nya
+        header('Cache-Control: max-age=0');
+        $write = PHPExcel_IOFactory::createWriter($excel, 'Excel2007');
+        $write->save('php://output');
+      }
+
+
+
+}
