@@ -14,7 +14,7 @@ Informasi Dan Update
 
 
 
-informasi Update Terbaru Kunjungi halaman `Website
+informasi Update Terbaru Kunjungi halaman `Website Exampremium
 <https://exampremium.co.id>`_ .
 
 **************************
