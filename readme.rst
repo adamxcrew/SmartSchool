@@ -1,7 +1,7 @@
 ###################
 Aplikasi SmartSchool Exampremium
 ###################
-Contact Person : 081222913903
+Contact Person Pengembang : 081222913903 (Hainur Cahya Utama)
  
  
 Aplikasi SmartSchool ini dibangun dengan Framework Codeigniter 3.x
